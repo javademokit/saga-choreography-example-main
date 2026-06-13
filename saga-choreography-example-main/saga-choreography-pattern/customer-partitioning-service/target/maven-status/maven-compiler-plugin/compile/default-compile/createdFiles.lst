@@ -1,0 +1,9 @@
+com\javatechie\saga\customerpartitioning\runner\SampleEventRunner.class
+com\javatechie\saga\customerpartitioning\controller\CustomerEventController.class
+com\javatechie\saga\customerpartitioning\service\CustomerEventProducerService.class
+com\javatechie\saga\customerpartitioning\config\KafkaTopicConfig.class
+com\javatechie\saga\customerpartitioning\CustomerPartitioningServiceApplication.class
+com\javatechie\saga\customerpartitioning\dto\CustomerEventRequest.class
+com\javatechie\saga\customerpartitioning\dto\CustomerEvent.class
+com\javatechie\saga\customerpartitioning\dto\PublishResult.class
+com\javatechie\saga\customerpartitioning\service\PartitionCalculator.class

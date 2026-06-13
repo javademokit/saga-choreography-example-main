@@ -1,0 +1,9 @@
+com\javatechie\saga\order\repository\OrderRepository.class
+com\javatechie\saga\order\service\OrderStatusPublisher.class
+com\javatechie\saga\order\service\OrderService.class
+com\javatechie\saga\order\controller\OrderController.class
+com\javatechie\saga\order\OrderServiceApplication.class
+com\javatechie\saga\order\config\OrderPublisherConfig.class
+com\javatechie\saga\order\config\OrderStatusUpdateHandler.class
+com\javatechie\saga\order\entity\PurchaseOrder.class
+com\javatechie\saga\order\config\EventConsumerConfig.class

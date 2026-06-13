@@ -7,6 +7,8 @@
 		<module>order-service</module>
 		<module>payment-service</module>
 		<module>common-dtos</module>
+		<module>customer-partitioning-service</module>
+		<module>eureka-discovery-service</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
